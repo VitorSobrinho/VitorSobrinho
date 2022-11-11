@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorSobrinho
 - 👀 I’m interested in networking.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 How to reach me: https://www.linkedin.com/in/vhyctorugo/
 
 <!---
