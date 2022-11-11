@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vhyctorugo
+- 👋 Hi, I’m @VitorSobrinho
 - 👀 I’m interested in networking.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: https://www.linkedin.com/in/vhyctorugo/
