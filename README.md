@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VitorSobrinho
-- 👀 I’m interested in networking.
+- 👀 I’m interested in networking and I open to work.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 How to reach me: https://www.linkedin.com/in/vhyctorugo/
 
