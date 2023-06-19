@@ -26,11 +26,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 ##
 
-![Vitor Sobrinho GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsobrinho&show_icons=true&theme=dracula&count_private=true)
+[![Vitor Sobrinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsobrinho&show_icons=true&theme=radical)](https://github.com/vitorsobrinho/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsobrinho&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsobrinho&layout=compact)
 
-  ##
+##
  
 <div> 
 
