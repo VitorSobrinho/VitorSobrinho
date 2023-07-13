@@ -28,18 +28,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 [![Vitor Sobrinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsobrinho&show_icons=true&theme=radical)](https://github.com/vitorsobrinho/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsobrinho&layout=compact)
-
 ##
  
 <div> 
 
   <a href = "mailto:vitor_s@id.uff.br
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hhttps://www.linkedin.com/in/vhyctorugo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
 <!---
 Vhyctorugo/Vhyctorugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
