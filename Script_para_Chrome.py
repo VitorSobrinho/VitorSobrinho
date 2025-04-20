@@ -11,10 +11,11 @@ def gerar_palavra_aleatoria(tamanho):
 tamanho_palavra = 8
 #palavra_aleatoria = gerar_palavra_aleatoria(tamanho_palavra)
 
+pyautogui.press('win')
+pyautogui.write('chrome')
+
 count = 0
 while count < 10:   
-    pyautogui.press('win')
-    pyautogui.write('chrome')
     pyautogui.press('enter')    
     time.sleep(4)
     
@@ -24,6 +25,9 @@ while count < 10:
     pyautogui.write(palavra_aleatoria)
     pyautogui.press('enter')
     time.sleep(5)
-    pyautogui.hotkey('ctrl', 'f4')
+    pyautogui.hotkey('ctrl', 't')
     
     count += 1
+
+
+pyautogui.hotkey('alt', 'f4')
