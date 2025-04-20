@@ -26,7 +26,7 @@ while count < 10:
     pyautogui.write(palavra_aleatoria)
     pyautogui.press('enter')
     time.sleep(5)
-
+    pyautogui.hotkey('ctrl', 'f4')
     
     count += 1
 
